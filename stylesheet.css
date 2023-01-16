@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    margin: 0%;
+    
+}
+.main{
+    height: 600px;
+    width: 833px;
+    margin: 100px;
+}
+.part1{
+    background-color: white;
+    display: inline-block;
+    height: 400px;
+    position: absolute;
+    right: 952px;
+    padding-top: 200px;
+    text-align: center;
+    width: 200px;
+}
+h5{
+    font-weight: normal;
+}
+.button{
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 5px;
+    border-style: none;
+    padding: 5px;
+    font-weight:bold;
+}
+
+.img{
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    margin-left: 0;
+    height: 600px;
+    width: 650px;
+}
